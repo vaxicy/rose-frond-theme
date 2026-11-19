@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Rose Frond Theme",
+  "version": "1.0.0",
+  "description": "A soft floral Chrome theme: rose chrome, a blush toolbar and a petal-white New Tab Page.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [245, 155, 193],
+      "frame_inactive":               [248, 177, 207],
+      "toolbar":                      [255, 206, 214],
+      "tab_text":                     [74, 43, 60],
+      "bookmark_text":                [74, 43, 60],
+      "ntp_background":               [255, 249, 249],
+      "ntp_text":                     [74, 43, 60],
+      "ntp_link":                     [168, 71, 122],
+      "ntp_header":                   [178, 241, 179],
+      "button_background":            [178, 241, 179],
+      "button_background_secondary":  [217, 254, 214],
+      "omnibox_background":           [255, 255, 255],
+      "omnibox_text":                 [74, 43, 60],
+      "toolbar_button_icon":          [74, 43, 60]
+    },
+    "properties": {
+      "ntp_button_background":    [217, 254, 214],
+      "ntp_button_hover":         [186, 231, 184],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
